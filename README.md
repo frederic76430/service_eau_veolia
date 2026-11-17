@@ -41,7 +41,7 @@
 - Etat des alertes de consommation d'eau
 - Date de la dernière relève de consommation d'eau
 
-> #### **Note :** Les données de l'intégration sont mises à jour toutes les 12h.
+> #### **Note :** Les données de l'intégration sont mises à jour toutes les 6 h.
 
 ### Capteurs :
 
