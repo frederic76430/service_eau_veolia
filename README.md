@@ -142,14 +142,14 @@ Votre portail n'est pas géré? Voir [CONTRIBUTING.md](https://github.com/Jezza3
 
 **Cliquez ici:**
 
-[![Open your Home Assistant instance and open the repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg?style=flat-square)](https://my.home-assistant.io/redirect/hacs_repository/?owner=frederic76430&repository=homeassistant_veolia&category=integration)
+[![Open your Home Assistant instance and open the repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg?style=flat-square)](https://my.home-assistant.io/redirect/hacs_repository/?owner=frederic76430&repository=service_eau_veolia&category=integration)
 
 **ou suivez ces étapes:**
 
 1. Ouvrez HACS (Home Assistant Community Store)
 2. Cliquez sur les trois points en haut à droite
 3. Cliquez sur `Dépôts personnalisées`
-4. Dans le champ `Dépôt` entrez https://github.com/frederic76430/homeassistant_veolia/
+4. Dans le champ `Dépôt` entrez https://github.com/frederic76430/service_eau_veolia/
 5. Dans le champ `Type` sélectionnez `Intégration`
 6. Cliquez sur `Ajouter`
 7. Recherchez `Veolia` dans la liste des intégrations
@@ -167,7 +167,7 @@ Votre portail n'est pas géré? Voir [CONTRIBUTING.md](https://github.com/Jezza3
 
 ## Bug et demande de fonctionnalités
 
-- [Cliquez-ici](https://github.com/frederic76430/homeassistant_veolia/issues)
+- [Cliquez-ici](https://github.com/frederic76430/service_eau_veolia/issues)
 
 ## Historique des versions
 
@@ -197,10 +197,10 @@ Le modèle de code de cette intégration à principalement été tiré du bluepr
 
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [hacs]: https://hacs.xyz
-[releases-shield]: https://img.shields.io/github/v/release/frederic76430/homeassistant_veolia.svg?style=for-the-badge
-[releases]: https://github.com/frederic76430/homeassistant_veolia/releases
+[releases-shield]: https://img.shields.io/github/v/release/frederic76430/service_eau_veolia.svg?style=for-the-badge
+[releases]: https://github.com/frederic76430/service_eau_veolia/releases
 [commits-shield]: https://img.shields.io/github/commit-activity/y/ludeeus/integration_blueprint.svg?style=for-the-badge
-[commits]: https://github.com/frederic76430/homeassistant_veolia/commits/main
+[commits]: https://github.com/frederic76430/service_eau_veolia/commits/main
 [license-shield]: https://img.shields.io/github/license/ludeeus/integration_blueprint.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-%20%40frederic76430-blue.svg?style=for-the-badge
 [sensorsimg]: images/entities.png
